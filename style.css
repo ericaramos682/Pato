@@ -1,0 +1,64 @@
+body{
+	background-color: #81d4fa;
+	cursor: url(rafa.png), auto;
+}
+#box1 {
+    display: block;
+    left: 200px;
+    width: 500px;
+    height: 500px; 
+    top: 500px;  
+    align-items: center;
+    justify-content: center;
+}
+#box {
+    width: 50px;
+    height: 50px;
+    left: 50px; 
+    top: 50px; 
+    position: absolute; 
+    align-items: center;
+}
+
+div {
+    display: block;
+    padding-top: 10px;
+    margin-left: 200px;
+    align-items: center;
+    
+}
+section{
+    text-align: center;
+}
+h1 {
+	font-family: "overlock", cursive;
+	text-decoration: underline wavy #ff0043;
+}
+h2 {
+	font-family: Georgia, 'Times New Roman', Times, serif, cursive;
+}
+p {
+	font-family: "overlock", cursive;
+}
+h3 {
+	text-align: center;
+	font-family: Georgia, 'Times New Roman', Times, serif, cursive;
+    margin-bottom: 10px;
+}
+h4 {
+	font-family: Georgia, 'Times New Roman', Times, serif, cursive;
+}
+h5 {
+	color: rgb(8, 6, 85);
+	float: left;
+	margin-top: 0.7em;
+	margin-right: -0.8em;
+}
+h6 {
+	color: rgb(8, 6, 85);
+	margin-top: 0.20em;
+	margin-right: -0.15em;
+}
+
+
+
